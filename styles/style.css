@@ -87,7 +87,7 @@ header section button
   margin-top: 37px;
 }
 
-/* //////////////// MAIN ////////////// */
+/* //////////////// MAIN SECTION 1////////////// */
 
 main section
 {
@@ -232,3 +232,40 @@ main section
 {
   color: #2524327c;
 }
+
+/* ///////// MAIN SECTION 4 //////// */
+
+.section-4 
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 1140px;
+  height: 696px;
+  background-color: #FFFFFF;
+  border-radius: 14px;
+  margin: 137px auto 0;
+}
+
+.section-4 h1
+{
+  color: #252432;
+  font-size: 50px;
+}
+
+.section-4 p
+{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #00000098;
+}
+
+.section-4 img
+{
+  margin-top: 20px;
+  border-radius: 48px;
+}
+
+
+/* ///////// MAIN SECTION 5 //////// */
