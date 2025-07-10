@@ -269,3 +269,59 @@ main section
 
 
 /* ///////// MAIN SECTION 5 //////// */
+
+.section-5
+{
+  width: 1140px;
+  height: 632px;
+  margin: 93px auto 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 115;
+}
+
+.text-field h1
+{
+  font-size: 80px;
+}
+
+.input-field
+{
+  display: flex;
+  flex-direction: column;
+}
+
+.input-field input
+{
+  width: 497px;
+  height: 70px;
+  border-radius: 10px;
+  border: 2px solid #D6DDED;
+  padding: 20px;
+  font-size: 17px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.input-field textarea
+{
+   width: 497px;
+  border-radius: 10px;
+  border: 2px solid #D6DDED;
+  padding: 20px;
+  font-size: 17px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.input-field label
+{
+  font-weight: bold;
+}
+
+.input-field button
+{
+  margin-top: 10px;
+  height: 62px;
+}
