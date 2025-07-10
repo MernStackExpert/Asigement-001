@@ -83,3 +83,49 @@ header section button
 {
   margin-top: 37px;
 }
+
+/* //////////////// MAIN ////////////// */
+
+main section
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-1
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 178px auto 0;
+  gap: 220px;
+  height: 328px;
+  width: 1140px;
+}
+
+.section1-container1
+{
+  width: 517px;
+  height: 203px;
+
+}
+
+.section1-container1 h1
+{
+  font-size: 40px;
+  color: #252432;
+}
+
+.section1-container1 p
+{
+  margin: 23px 0px 23px;
+  font-size: 20px;
+  color: #252432;
+}
+
+.section1-container2 img
+{
+  border-radius: 48px;
+}
+
