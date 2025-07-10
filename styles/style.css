@@ -1,0 +1,59 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header
+{
+   background-image: url("../Assets/Hero-bg.png");
+   height: 698px;
+}
+
+/* /////// Primery color Section ///////// */
+
+.background-color
+{
+  background-color: #4E47FF;
+}
+
+
+
+
+
+
+/* //////// END ///////// */
+nav
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 151px;
+  /* width: 1440px; */
+}
+
+nav ul 
+{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1140px;
+}
+
+nav ul h1
+{
+  font-size: 35px;
+  color: #4E47FF;
+}
+
+nav ul button
+{
+  width: 132px;
+  height: 48px;
+  border: none;
+  border-radius: 10px;
+  color: #FFFFFF;
+}
