@@ -27,11 +27,9 @@ header
 {
   background-color: #FFFFFF;
   border: 3px solid orange;
-  color: blue;
+  color: #4E47FF;
   font-weight: bold;
 }
-
-
 
 
 
@@ -129,3 +127,42 @@ main section
   border-radius: 48px;
 }
 
+/* ///////// MAIN SECTION 2 /////////// */
+
+.section-2 
+{
+  width: 1140px;
+  height: 306px;
+  background-color: #4d47ff30;
+  margin: 116px auto 0;
+  border-radius: 24px;
+}
+
+.section-2 h2
+{
+  padding-top: 50px;
+  text-align: center;
+  color: #252432;
+  font-size: 30px;
+}
+
+.section2-container
+{
+  width: 856px;
+  height: 121px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 40px auto 0px;
+}
+
+.section2-container h1
+{
+  font-size: 50px;
+  color: #4E47FF;
+}
+
+.section2-container p
+{
+  color: #252432;
+}
